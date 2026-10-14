@@ -1,0 +1,2419 @@
+{
+  "$schema": "./data_schema.json",
+  "JSON Version": "2.86.0",
+  "JSON Date": "2026-10-08",
+  "Contributers": [
+    "ItsFloofy",
+    "Daernaro",
+    "Darizard",
+    "DatGek",
+    "gardwolf",
+    "Happyrobot33",
+    "Heather May",
+    "Igneoun",
+    "IlChiporiAlbino",
+    "Krazen",
+    "Literally Marty",
+    "Mattshark89",
+    "Morghus",
+    "NTM3193",
+    "OrcaToaster",
+    "Roimu",
+    "Slash0x",
+    "fundale",
+    "mackandelius",
+    "Eglantine",
+    "~EmberVR~",
+    "Nanireid101",
+    "Mіcca",
+    "FunnelVision",
+    "PhoenixFallen",
+    "-Dark-Spirit-",
+    "Mike Da Bird",
+    "dasnull",
+    "Polaris°",
+    "Glowva",
+    "Purpzie",
+    "a distraction",
+    "InvertedCrink",
+    "~Angiethekirin~",
+    "Kitsune KAZE",
+    "Luna Neszy",
+    "Reazy Fluff",
+    "Tokyozilla",
+    "SandFoxed",
+    "BurnsToShine",
+    "Mama_TeraByte",
+    "Lane_the_Rex",
+    "ＶｉｘｅｎＤａｖａｌｉ",
+    "Toys0125",
+    "hantnor",
+    "NeoSnivy",
+    "ArkeoTP",
+    "SkyWarrior",
+    "Ṉano",
+    "Ordinary_night",
+    "a distraction",
+    "Mieze",
+    "TrueHiddenS",
+    "S e n t i n e l",
+    "Iced_lem0n",
+    "Jafira-Dragon",
+    "NoodleTheAvali",
+    "LunaFree",
+    "Dream_LP",
+    "AeolusDraco",
+    "WingHugs",
+    "Zero_assasin",
+    "Talii-bit",
+    "FlorianGrille",
+    "Woffle Nibbler",
+    "WebserferOwO",
+    "Zeimyth",
+    "Fluxsynth",
+    "wordweaver1001",
+    "KUROPPER",
+    "Xavarius",
+    "Katislove",
+    "aviona.sys",
+    "Beanthing",
+    "ReaperAvali",
+    "Mors Phantasma",
+    "KuroFoxYokai",
+    "DrBlackRat",
+    "kitofox",
+    "Mawterwelon",
+    "Icyvarix",
+    "Nicoreda"
+  ],
+  "Bases": {
+    "Kitavali": {
+      "Original": {
+        "Name": "Kitavali",
+        "Creator": "Rai Kitamatsu",
+        "Introducer": "Happyrobot33",
+        "Hash": [
+          "234133961v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 6.6
+      },
+      "Weaver": {
+        "Name": "Kitachi",
+        "Creator": "Rai Kitamatsu/Rantis",
+        "Introducer": "wordweaver1001",
+        "Hash": [
+          "-1331949987v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 0
+      }
+    },
+    "Batdal": {
+      "Original": {
+        "Name": "Batdal",
+        "Creator": "Nicoreda",
+        "Introducer": "Happyrobot33",
+        "Hash": [
+          "-1977644388v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 5
+      },
+      "V2": {
+        "Name": "Batdal",
+        "Creator": "Nicoreda",
+        "Introducer": "Kitsune KAZE",
+        "Hash": [
+          "676162765v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 4.8
+      }
+    },
+    "Chimera Recon": {
+      "Original": {
+        "Name": "Chimera Recon",
+        "Creator": "Lackofbindings",
+        "Introducer": "Happyrobot33",
+        "Hash": [
+          "-1196345180v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 1
+      }
+    },
+    "Jerry": {
+      "Original": {
+        "Name": "Jerry [Avali]",
+        "Creator": "Rai Kitamatsu",
+        "Introducer": "Happyrobot33",
+        "Hash": [
+          "1324149349v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 4.05
+      },
+      "Toys Jerry": {
+        "Name": "Toys Jerry",
+        "Creator": "Toys0125 / Rai Kitamatsu",
+        "Introducer": "Toys0125",
+        "Hash": [
+          "1109002599v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 4.05
+      },
+      "Miezes Jerry Avali": {
+        "Name": "Miezes Jerry Avali",
+        "Creator": "Rai Kitamatsu / Mieze",
+        "Introducer": "Mieze",
+        "Hash": [
+          "-1517578892v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 4.05
+      }
+    },
+    "Rosa'vali": {
+      "Original": {
+        "Name": "Rosa'vali",
+        "Creator": "Rosebur",
+        "Introducer": "Happyrobot33",
+        "Hash": [
+          "1582207921v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 3
+      }
+    },
+    "Chibi Avali": {
+      "Original": {
+        "Name": "Chibi Avali",
+        "Creator": "【Pͦoͭlͭyͬ】",
+        "Introducer": "Happyrobot33",
+        "Hash": [
+          "-277689357v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 0
+      }
+    },
+    "Aerogen": {
+      "Original": {
+        "Name": "Aerogen",
+        "Creator": "Rosebur",
+        "Introducer": "Happyrobot33",
+        "Hash": [
+          "1189110379v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 2
+      }
+    },
+    "Royal Avali": {
+      "Original": {
+        "Name": "Royal Avali",
+        "Creator": "Octupus King",
+        "Introducer": "Happyrobot33",
+        "Hash": [
+          "1819772288v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 0
+      }
+    },
+    "Minecraft Avali": {
+      "Original": {
+        "Name": "Minecraft Avali",
+        "Creator": "K_Reshi",
+        "Introducer": "Happyrobot33",
+        "Hash": [
+          "-137572979v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 0
+      }
+    },
+    "Mechanical Avali": {
+      "Original": {
+        "Name": "Mechanical Avali",
+        "Creator": "AngriestSCV",
+        "Introducer": "Happyrobot33",
+        "Hash": [
+          "666213272v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 0
+      }
+    },
+    "BotVali": {
+      "Original": {
+        "Name": "BotVali",
+        "Creator": "Sillurgy",
+        "Introducer": "Happyrobot33",
+        "Hash": [
+          "-1152420328v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 1
+      }
+    },
+    "Pooltoy Avali": {
+      "Original": {
+        "Name": "Pooltoy Avali",
+        "Creator": "ModernBalloonie",
+        "Introducer": "Happyrobot33",
+        "Hash": [
+          "-5390243v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 2.7
+      }
+    },
+    "Pooltoy Da'vali": {
+      "Original": {
+        "Name": "Pooltoy Da'vali",
+        "Creator": "Maitake Inu",
+        "Introducer": "Happyrobot33",
+        "Hash": [
+          "2014277989v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 1.54
+      }
+    },
+    "Da'vali": {
+      "Original": {
+        "Name": "Da'vali",
+        "Creator": "Rai Kitamatsu",
+        "Introducer": "Mattshark89",
+        "Hash": [
+          "-1463139696v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 1.7
+      }
+    },
+    "Javali": {
+      "Original": {
+        "Name": "Javali",
+        "Creator": "Javenchi",
+        "Introducer": "Happyrobot33",
+        "Hash": [
+          "-441892162v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 3
+      },
+      "JaReverse": {
+        "Name": "JaReverse",
+        "Creator": "Webserfer / Javenchi / VictonRoy",
+        "Introducer": "Happyrobot33",
+        "Hash": [
+          "-1169853867v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 3.3
+      },
+      "Javali Modif": {
+        "Name": "Javali Modif",
+        "Creator": "Javenchi / Webserfer",
+        "Introducer": "SkyWarrior",
+        "Hash": [
+          "-525410190v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 3
+      }
+    },
+    "Nexa'vali": {
+      "Original": {
+        "Name": "Nexa'vali",
+        "Creator": "Angelboy",
+        "Introducer": "Happyrobot33",
+        "Hash": [
+          "293252502v2",
+          "1042603441v2",
+          "-1520979602v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 2.7
+      },
+      "Nexa'vali v4": {
+        "Name": "Nexa'vali",
+        "Creator": "Angelboy",
+        "Introducer": "NeoSnivy",
+        "Hash": [
+          "686616116v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 4.2
+      },
+      "Mamma Nexa'vali": {
+        "Name": "Mamma Nexa'vali",
+        "Creator": "Angelboy / 989onan",
+        "Introducer": "NeoSnivy",
+        "Hash": [
+          "-2104754549v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 4.2
+      }
+    },
+    "Seeker Avali": {
+      "Original": {
+        "Name": "Seeker Avali",
+        "Creator": "Star-Max",
+        "Introducer": "Happyrobot33",
+        "Hash": [
+          "-860693031v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 8
+      }
+    },
+    "Lorc'Avali": {
+      "Original": {
+        "Name": "Lorc'Avali",
+        "Creator": "LocanTheAvali",
+        "Introducer": "Happyrobot33",
+        "Hash": [
+          "1900199170v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 7.1
+      }
+    },
+    "Nuk'Vali": {
+      "Original": {
+        "Name": "Nuk'Vali",
+        "Creator": "Nukude",
+        "Introducer": "Happyrobot33",
+        "Hash": [
+          "917941807v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 5.6
+      }
+    },
+    "NatVali": {
+      "Original": {
+        "Name": "NatVali",
+        "Creator": "Natval",
+        "Introducer": "Happyrobot33",
+        "Hash": [
+          "-672767444v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 0
+      }
+    },
+    "Reverse NatVali": {
+      "Original": {
+        "Name": "Reverse NatVali",
+        "Creator": "Natval",
+        "Introducer": "Happyrobot33",
+        "Hash": [
+          "687939090v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 0
+      }
+    },
+    "Reverse Avali": {
+      "Original": {
+        "Name": "Reverse Avali",
+        "Creator": "VictonRoy",
+        "Introducer": "Happyrobot33",
+        "Hash": [
+          "-1678847866v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 1.3
+      },
+      "Modified": {
+        "Name": "Reverse Avali",
+        "Creator": "VictonRoy / farfelu",
+        "Introducer": "Heather May",
+        "Hash": [
+          "-1731617419v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 2.28
+      },
+      "Webserfer Alteration": {
+        "Name": "Reverse Avali",
+        "Creator": "VictonRoy / Webserfer",
+        "Introducer": "Webserfer",
+        "Hash": [
+          "-597043440v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 4.5
+      }
+    },
+    "EVA Avali": {
+      "Original": {
+        "Name": "EVA Avali",
+        "Creator": "Frownytown",
+        "Introducer": "Happyrobot33",
+        "Hash": [
+          "-1365888474v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 0
+      }
+    },
+    "Corvali": {
+      "Original": {
+        "Name": "Corvali / Avali 1.3",
+        "Creator": "Frownytown / FlowerBunny",
+        "Introducer": "Happyrobot33",
+        "Hash": [
+          "1858127952v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 1.2
+      }
+    },
+    "Starbound Avali": {
+      "Original": {
+        "Name": "Starbound Avali",
+        "Creator": "McArdellje",
+        "Introducer": "Happyrobot33",
+        "Hash": [
+          "-1088515536v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 0
+      }
+    },
+    "Swaria": {
+      "Original": {
+        "Name": "Swaria",
+        "Creator": "ForestWind (Gennyuudousi)",
+        "Introducer": "Happyrobot33",
+        "Hash": [
+          "1529029896v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 20
+      },
+      "Swaria v3": {
+        "Name": "Swaria",
+        "Creator": "ForestWind (Gennyuu Dousi)",
+        "Introducer": "Kitofox",
+        "Hash": [
+          "1284114604v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 7.5
+      }
+    },
+    "Shade Owl": {
+      "Original": {
+        "Name": "Shade Owl",
+        "Creator": "ForestWind (Gennyuudousi)",
+        "Introducer": "Happyrobot33",
+        "Hash": [
+          "-1469156464v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 9.74
+      }
+    },
+    "Flutevali": {
+      "1.1": {
+        "Name": "Flutevali v1.1",
+        "Creator": "FluteBirdie",
+        "Introducer": "Heather May",
+        "Hash": [
+          "826883716v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 3.71
+      },
+      "2 Beta": {
+        "Name": "Flutevali v2 Beta",
+        "Creator": "FluteBirdie",
+        "Introducer": "Heather May",
+        "Hash": [
+          "-303321714v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 7.16
+      }
+    },
+    "Chipori": {
+      "Original": {
+        "Name": "Chipori",
+        "Creator": "Hobbert",
+        "Introducer": "DatGek",
+        "Hash": [
+          "1847064403v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 3.81
+      }
+    },
+    "Avali Plushie": {
+      "Original": {
+        "Name": "Avali Plushie",
+        "Creator": "Maitake",
+        "Introducer": "DatGek",
+        "Hash": [
+          "-1643569577v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 0
+      }
+    },
+    "Bitty Bat": {
+      "Original": {
+        "Name": "Bitty Bat",
+        "Creator": "Thingy",
+        "Introducer": "DatGek",
+        "Hash": [
+          "1752661837v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 4.98
+      }
+    },
+    "Fallf": {
+      "Original": {
+        "Name": "Fallf",
+        "Creator": "ForestWind (Gennyuudousi)",
+        "Introducer": "DatGek",
+        "Hash": [
+          "-120118457v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 15.91
+      }
+    },
+    "Sunfire Bird": {
+      "Original": {
+        "Name": "Sunfire Bird",
+        "Creator": "ForestWind (Gennyuudousi)",
+        "Introducer": "DatGek",
+        "Hash": [
+          "1809557050v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 8.5
+      }
+    },
+    "Frankenstein Monster Avali": {
+      "Original": {
+        "Name": "Frankenstein Monster Avali",
+        "Creator": "Various [Doruvon]",
+        "Introducer": "Datalink",
+        "Hash": [
+          "-1647422637v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 3
+      }
+    },
+    "Sorawatari": {
+      "Original": {
+        "Name": "Sorawatari",
+        "Creator": "ForestWind (Gennyuudousi)",
+        "Introducer": "Roimu",
+        "Hash": [
+          "-1556002986v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 0
+      }
+    },
+    "Lippia": {
+      "Original": {
+        "Name": "Lippia",
+        "Creator": "ForestWind (Gennyuudousi)",
+        "Introducer": "Roimu",
+        "Hash": [
+          "-354624116v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 0
+      }
+    },
+    "Harmir": {
+      "Original": {
+        "Name": "Harmir",
+        "Creator": "Teaf",
+        "Introducer": "Heather May",
+        "Hash": [
+          "-2007130624v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 7.59
+      }
+    },
+    "Nico": {
+      "Original": {
+        "Name": "Nico",
+        "Creator": "Tokiha (Gin Karasawa)",
+        "Introducer": "Heather May",
+        "Hash": [
+          "-618014635v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 5.79
+      }
+    },
+    "Sufosni": {
+      "Original": {
+        "Name": "Sufosni",
+        "Creator": "aokuro",
+        "Introducer": "Heather May",
+        "Hash": [
+          "1522500207v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 5.69
+      }
+    },
+    "Milnunu / Milnonu": {
+      "Original": {
+        "Name": "Milnunu / Milnonu",
+        "Creator": "aokuro",
+        "Introducer": "Heather May",
+        "Hash": [
+          "1925790033v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 3.65
+      },
+      "SD": {
+        "Name": "Milnunu SD / Milnonu SD",
+        "Creator": "aokuro",
+        "Introducer": "Heather May",
+        "Hash": [
+          "1376157598v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 7.7
+      }
+    },
+    "Milnenu": {
+      "Original": {
+        "Name": "Milnenu",
+        "Creator": "aokuro",
+        "Introducer": "Heather May",
+        "Hash": [
+          "-1186408428v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 4.53
+      },
+      "SD": {
+        "Name": "Milnenu SD",
+        "Creator": "aokuro",
+        "Introducer": "Heather May",
+        "Hash": [
+          "-336806613v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 7.12
+      }
+    },
+    "Nenon / Nunon": {
+      "Original": {
+        "Name": "Nenon / Nunon",
+        "Creator": "aokuro",
+        "Introducer": "Heather May",
+        "Hash": [
+          "-1241705933v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 4.55
+      },
+      "Nenon SD": {
+        "Name": "Nenon SD",
+        "Creator": "aokuro",
+        "Introducer": "Heather May",
+        "Hash": [
+          "1829445921v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 11.9
+      },
+      "Nunon SD": {
+        "Name": "Nunon SD",
+        "Creator": "aokuro",
+        "Introducer": "Heather May",
+        "Hash": [
+          "-1198798216v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 9.98
+      }
+    },
+    "Runapaella": {
+      "Original": {
+        "Name": "Runapaella",
+        "Creator": "aokuro",
+        "Introducer": "Heather May",
+        "Hash": [
+          "-1463277379v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 8
+      }
+    },
+    "Necpho": {
+      "Original": {
+        "Name": "Necpho",
+        "Creator": "aokuro",
+        "Introducer": "Heather May",
+        "Hash": [
+          "-1563335000v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 6.9
+      }
+    },
+    "2 or 4 Eyed Owl": {
+      "Original": {
+        "Name": "2 or 4 Eyed Owl",
+        "Creator": "Space Birb",
+        "Introducer": "Heather May",
+        "Hash": [
+          "1507547534v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 2
+      }
+    },
+    "Kuda's Avian": {
+      "Original": {
+        "Name": "Kuda's Avian",
+        "Creator": "Kudalyn's Creations",
+        "Introducer": "Heather May",
+        "Hash": [
+          "718666137v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 4.16
+      }
+    },
+    "Avigen": {
+      "Original": {
+        "Name": "Avigen",
+        "Creator": "Mike Da Bird",
+        "Introducer": "Heather May",
+        "Hash": [
+          "-1218808282v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 6
+      }
+    },
+    "Beriul": {
+      "Original": {
+        "Name": "ベリウル(Beriul)",
+        "Creator": "あまち(Amati)",
+        "Introducer": "Heather May",
+        "Hash": [
+          "-2078421954v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 2.5
+      }
+    },
+    "Ragussiel": {
+      "Original": {
+        "Name": "ラグシエル(Ragussiel)",
+        "Creator": "あまち(Amati)",
+        "Introducer": "Heather May",
+        "Hash": [
+          "465108658v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 2
+      }
+    },
+    "Nico the Floof": {
+      "Original": {
+        "Name": "Nico the Floof (Deira Base)",
+        "Creator": "Alex The Cat",
+        "Introducer": "Heather May",
+        "Hash": [
+          "1026958829v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 7
+      },
+      "LongNico": {
+        "Name": "Nico the Floof (Deira Base)",
+        "Creator": "Alex The Cat",
+        "Introducer": "Happyrobot33",
+        "Hash": [
+          "442302703v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 7
+      },
+      "Brin Solace Alteration": {
+        "Name": "Nico the Floof",
+        "Creator": "Alex The Cat",
+        "Introducer": "Heather May",
+        "Hash": [
+          "-1317976831v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 5
+      }
+    },
+    "Petrenkavali (Petvali)": {
+      "Original": {
+        "Name": "Petrenkavali (Petvali)",
+        "Creator": "Stormi Starcrest / Petrenko",
+        "Introducer": "Heather May",
+        "Hash": [
+          "-1706856203v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 4.58
+      }
+    },
+    "VRaptor": {
+      "Original": {
+        "Name": "VRaptor",
+        "Creator": "Spaghet / Kaelygon",
+        "Introducer": "Heather May",
+        "Hash": [
+          "599890630v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 0
+      }
+    },
+    "N64 Avali": {
+      "Original": {
+        "Name": "N64 Avali",
+        "Creator": "Tianta",
+        "Introducer": "Datalink",
+        "Hash": [
+          "-597956488v2"
+        ],
+        "Weight": 0.75,
+        "WingtipOffset": 4
+      }
+    },
+    "Kyliin": {
+      "Kyliin Redux": {
+        "Name": "Kyliin Redux",
+        "Creator": "Avislime",
+        "Introducer": "Heather May",
+        "Hash": [
+          "755266400v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 10.5
+      },
+      "Kyliin v2": {
+        "Name": "Kyliin v2",
+        "Creator": "Avislime",
+        "Introducer": "Mama_TeraByte",
+        "Hash": [
+          "2026631960v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 3.6
+      }
+    },
+    "ZWyvern": {
+      "ZWyvern": {
+        "Name": "ZWyvern",
+        "Creator": "Morghus",
+        "Introducer": "Literally Marty",
+        "Hash": [
+          "-843246621v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 10.2
+      },
+      "V2": {
+        "Name": "ZWyvern V2",
+        "Creator": "Morghus",
+        "Introducer": "a distraction",
+        "Hash": [
+          "157413474v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 10.2
+      }
+    },
+    "Nardovern": {
+      "Nardovern": {
+        "Name": "Nardovern",
+        "Creator": "Morghus",
+        "Introducer": "Literally Marty",
+        "Hash": [
+          "518712631v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 10.25
+      },
+      "Stubby NardoBat": {
+        "Name": "Stubby NardoBat",
+        "Creator": "RezilloRyker / Morghus",
+        "Introducer": "Happyrobot33",
+        "Hash": [
+          "-2038059045v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 9.09
+      }
+    },
+    "Maximus Draconis Wyvern": {
+      "Original": {
+        "Name": "Maximus Draconis Wyvern",
+        "Creator": "DragonSkyRunner",
+        "Introducer": "MaleusDragon",
+        "Hash": [
+          "-124394151v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 15.75
+      }
+    },
+    "Wyvernis": {
+      "Original": {
+        "Name": "Wyvernis",
+        "Creator": "Tosca / Morghus",
+        "Introducer": "Happyrobot33",
+        "Hash": [
+          "706398633v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 6.2
+      }
+    },
+    "Mike'Vali": {
+      "Digitigrade": {
+        "Name": "Mike'Vali",
+        "Creator": "Mike Da Bird",
+        "Introducer": "Heather May",
+        "Hash": [
+          "710186215v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 5.5
+      },
+      "Plantigrade": {
+        "Name": "Mike'Vali",
+        "Creator": "Mike Da Bird",
+        "Introducer": "Heather May",
+        "Hash": [
+          "499498998v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 5.5
+      }
+    },
+    "Wyvernid": {
+      "Original": {
+        "Name": "Wyvernid V1",
+        "Creator": "Tosca / Morghus",
+        "Introducer": "Morghus",
+        "Hash": [
+          "311343967v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 7
+      }
+    },
+    "Peacock Wyvern": {
+      "Original": {
+        "Name": "Peacock Wyvern",
+        "Creator": "Donkeysaur",
+        "Introducer": "Happyrobot33",
+        "Hash": [
+          "919960665v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 12.14
+      }
+    },
+    "Vernodal": {
+      "Original": {
+        "Name": "Vernodal",
+        "Creator": "Nicoreda / Morghus",
+        "Introducer": "Happyrobot33",
+        "Hash": [
+          "1389610808v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 10
+      }
+    },
+    "Ao": {
+      "Original": {
+        "Name": "Ao",
+        "Creator": "Miumu",
+        "Introducer": "Heather May",
+        "Hash": [
+          "-2144703365v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 1.6
+      }
+    },
+    "Hochumi": {
+      "Original": {
+        "Name": "Hochumi",
+        "Creator": "MOKURI project",
+        "Introducer": "Heather May",
+        "Hash": [
+          "-388025981v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 1
+      }
+    },
+    "Sera/Replica": {
+      "Original": {
+        "Name": "Sera/Replica",
+        "Creator": "project_V.B.B",
+        "Introducer": "Heather May",
+        "Hash": [
+          "1218466978v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 0
+      }
+    },
+    "Torino": {
+      "Original": {
+        "Name": "Torino",
+        "Creator": "blo",
+        "Introducer": "Heather May",
+        "Hash": [
+          "1261362764v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 2.75
+      }
+    },
+    "Iubati": {
+      "SDK2": {
+        "Name": "Iubati",
+        "Creator": "Sparky42",
+        "Introducer": "Heather May",
+        "Hash": [
+          "2102027992v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 3.55
+      },
+      "SDK3": {
+        "Name": "Iubati",
+        "Creator": "Groxxy",
+        "Introducer": "Heather May",
+        "Hash": [
+          "-2091510322v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 5
+      }
+    },
+    "Nubatama Aratame": {
+      "Original": {
+        "Name": "Nubatama Aratame",
+        "Creator": "Nimono-oishi",
+        "Introducer": "Heather May",
+        "Hash": [
+          "989878058v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 4
+      }
+    },
+    "Krazen Nardo": {
+      "Original": {
+        "Name": "Krazen Nardovern - Toggleable Wings",
+        "Creator": "Krazen / Morghus",
+        "Introducer": "Krazen",
+        "Hash": [
+          "1967967830v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 10.45
+      }
+    },
+    "Guavali": {
+      "Original": {
+        "Name": "Guavali",
+        "Creator": "bluegua",
+        "Introducer": "Heather May",
+        "Hash": [
+          "-1218197994v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 1
+      }
+    },
+    "Sear Wyvern": {
+      "Original": {
+        "Name": "Sear Wyvern",
+        "Creator": "Damodragon",
+        "Introducer": "Damodragon",
+        "Hash": [
+          "722027325v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 9.5
+      }
+    },
+    "Vargus Wyvern": {
+      "Original": {
+        "Name": "Vargus Wyvern",
+        "Creator": "Morghus, Twisk",
+        "Introducer": "Happyrobot33",
+        "Hash": [
+          "949152736v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 9.57
+      }
+    },
+    "Scaled Wyvern": {
+      "Original": {
+        "Name": "Scaled Wyvern",
+        "Creator": "Slash0x",
+        "Introducer": "Happyrobot33",
+        "Hash": [
+          "-571998177v2",
+          "-2138666214v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 11.93
+      }
+    },
+    "Xeno'vern": {
+      "Original": {
+        "Name": "Xeno'vern",
+        "Creator": "Arctic",
+        "Introducer": "Happyrobot33",
+        "Hash": [
+          "1303206076v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 4.53
+      }
+    },
+    "Poison Wyvern": {
+      "Original": {
+        "Name": "Poison Wyvern",
+        "Creator": "Rigel Kalani",
+        "Introducer": "Happyrobot33",
+        "Hash": [
+          "-1364962744v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 5
+      }
+    },
+    "Female Bat": {
+      "Original": {
+        "Name": "Female Bat",
+        "Creator": "Ximmer",
+        "Introducer": "Heather May",
+        "Hash": [
+          "372563141v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 3.5
+      }
+    },
+    "Feilong": {
+      "Original": {
+        "Name": "Feilong",
+        "Creator": "FLASTORE",
+        "Introducer": "Heather May",
+        "Hash": [
+          "-582424562v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 5.5
+      }
+    },
+    "Microbat": {
+      "Original": {
+        "Name": "Microbat",
+        "Creator": "Neops",
+        "Introducer": "Heather May",
+        "Hash": [
+          "1412374679v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 6.6
+      }
+    },
+    "Toastacuga": {
+      "Original": {
+        "Name": "Toastacuga",
+        "Creator": "Toastador",
+        "Introducer": "Heather May",
+        "Hash": [
+          "291460065v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 0
+      }
+    },
+    "Darizard": {
+      "DarizardV1": {
+        "Name": "Darizard",
+        "Creator": "Darizard / Morghus / Nardoiri",
+        "Introducer": "Darizard",
+        "Hash": [
+          "-1114545045v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 10.25
+      }
+    },
+    "Rali'vala": {
+      "Original": {
+        "Name": "Rali'vala",
+        "Creator": "Rali",
+        "Introducer": "Heather May",
+        "Hash": [
+          "573259504v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 3.92
+      }
+    },
+    "Ayakaze Tsubame": {
+      "Original": {
+        "Name": "Ayakaze Tsubame",
+        "Creator": "konohitodayo",
+        "Introducer": "Heather May",
+        "Hash": [
+          "19534400v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 8
+      }
+    },
+    "Urabi": {
+      "Original": {
+        "Name": "Urabi",
+        "Creator": "Kyubi",
+        "Introducer": "Heather May",
+        "Hash": [
+          "1223900575v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 3.04
+      }
+    },
+    "Freje": {
+      "Original": {
+        "Name": "Freje",
+        "Creator": "Mochi",
+        "Introducer": "Heather May",
+        "Hash": [
+          "1670100128v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 1.86
+      }
+    },
+    "Bonjiri": {
+      "Original": {
+        "Name": "Bonjiri",
+        "Creator": "Anagura Works",
+        "Introducer": "Heather May",
+        "Hash": [
+          "-325536881v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 3.07
+      }
+    },
+    "Sachi": {
+      "Original": {
+        "Name": "Sachi",
+        "Creator": "Wilginia Box",
+        "Introducer": "Heather May",
+        "Hash": [
+          "-2050530656v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 5.37
+      }
+    },
+    "Floofvali": {
+      "Original": {
+        "Name": "Floofvali",
+        "Creator": "ItsFloofy",
+        "Introducer": "ItsFloofy",
+        "Hash": [
+          "-1417423972v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 2.48
+      },
+      "v1.2": {
+        "Name": "Floofvali",
+        "Creator": "ItsFloofy",
+        "Introducer": "gardwolf",
+        "Hash": [
+          "148663355v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 2.48
+      }
+    },
+    "PROTOVALI": {
+      "Original": {
+        "Name": "PROTOVALI",
+        "Creator": "ItsFloofy",
+        "Introducer": "Heather May",
+        "Hash": [
+          "610094013v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 2.5
+      }
+    },
+    "Hoshi Avali": {
+      "Original": {
+        "Name": "Hoshi Avali",
+        "Creator": "Raze_Drake / Vesper 3D",
+        "Introducer": "Heather May",
+        "Hash": [
+          "-216750810v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 1.65
+      },
+      "Modified": {
+        "Name": "Hoshi Avali - Ember's Edit",
+        "Creator": "~EmberVR~ / Vesper 3D",
+        "Introducer": "~EmberVR~",
+        "Hash": [
+          "526155575v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 1.65
+      }
+    },
+    "Aviosaur": {
+      "Original": {
+        "Name": "Aviosaur",
+        "Creator": "Furality (Sylva)",
+        "Introducer": "OrcaToaster",
+        "Hash": [
+          "-489620916v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 4.67
+      }
+    },
+    "ScarletWindsurferWyvern": {
+      "Original": {
+        "Name": "Scarlet Windsurfer Wyvern",
+        "Creator": "Slash0x",
+        "Introducer": "Happyrobot33",
+        "Hash": [
+          "-1817490604v2",
+          "202486027v2",
+          "-1359631808v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 13.7
+      }
+    },
+    "QC Avali": {
+      "Original": {
+        "Name": "QC Avali",
+        "Creator": "QuestingCrusader / CL3NR",
+        "Introducer": "Igneoun",
+        "Hash": [
+          "44657003v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 0
+      }
+    },
+    "Paw'vali": {
+      "Original": {
+        "Name": "Paw'vali",
+        "Creator": "TheRPGslayer",
+        "Introducer": "Heather May",
+        "Hash": [
+          "-574142661v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 5.5
+      }
+    },
+    "Gala'vali": {
+      "Original": {
+        "Name": "Gala'vali",
+        "Creator": "Jupiturn",
+        "Introducer": "NTM3193",
+        "Hash": [
+          "2119855112v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 5
+      }
+    },
+    "Forge Raptor": {
+      "Original": {
+        "Name": "Forge Raptor",
+        "Creator": "Eglantine / Drakious",
+        "Introducer": "Eglantine",
+        "Hash": [
+          "1210770600v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 2
+      }
+    },
+    "Novavern": {
+      "Original": {
+        "Name": "Novavern",
+        "Creator": "Kittomatic / Morghus",
+        "Introducer": "Morghus",
+        "Hash": [
+          "508437538v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 9.6
+      }
+    },
+    "skip4d bat": {
+      "Original": {
+        "Name": "skip4d bat",
+        "Creator": "skip4d",
+        "Introducer": "Nanireid101",
+        "Hash": [
+          "1001172972v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 3
+      }
+    },
+    "bento's vrchat bat": {
+      "Original": {
+        "Name": "bento's vrchat bat",
+        "Creator": "bento!",
+        "Introducer": "Nanireid101",
+        "Hash": [
+          "1596387254v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 8.81
+      }
+    },
+    "The Unknown": {
+      "Original": {
+        "Name": "The Unknown",
+        "Creator": "Crystalloid Cluster",
+        "Introducer": "Nanireid101",
+        "Hash": [
+          "-749497358v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 2.86
+      }
+    },
+    "Skipsy's Bat": {
+      "Original": {
+        "Name": "Skipsy's Bat",
+        "Creator": "Skipsy Dragon",
+        "Introducer": "Happyrobot33",
+        "Hash": [
+          "1497242661v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 7.59
+      }
+    },
+    "Ashera Dragoncat": {
+      "1.18": {
+        "Name": "Ashera Dragoncat - Winged",
+        "Creator": "Micca / Takomalynx",
+        "Introducer": "Micca",
+        "Hash": [
+          "-951652582v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 9.35
+      },
+      "1.19": {
+        "Name": "Ashera Dragoncat - Winged",
+        "Creator": "Micca / Takomalynx",
+        "Introducer": "Micca",
+        "Hash": [
+          "1057437118v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 8.6
+      }
+    },
+    "Nox Wyvern": {
+      "Arkeo's Nox Wyvern": {
+        "Name": "Arkeo's Nox Wyvern",
+        "Creator": "Arkeo / Fluff Rali",
+        "Introducer": "ArkeoTP",
+        "Hash": [
+          "809825900v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 7
+      },
+      "Sierrlen Nox Wyvern": {
+        "Name": "Sierrlen Nox Wyvern",
+        "Creator": "Sierrlen / Fluff Rali",
+        "Introducer": "Micca",
+        "Hash": [
+          "-1165575725v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 7.99
+      }
+    },
+    "Eld Phoenix": {
+      "Original": {
+        "Name": "Eld Phoenix",
+        "Creator": "Nambroth",
+        "Introducer": "Micca",
+        "Hash": [
+          "-1538087503v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 4.2
+      }
+    },
+    "Spiri'vali": {
+      "Beta": {
+        "Name": "Spiri'vali Beta",
+        "Creator": "Hiyu",
+        "Introducer": "FunnelVision",
+        "Hash": [
+          "136290747v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 3.81
+      },
+      "Original": {
+        "Name": "Spiri'vali",
+        "Creator": "Hiyu",
+        "Introducer": "Happyrobot33",
+        "Hash": [
+          "55850455v2",
+          "459134982v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 3.81
+      },
+      "PhoenixFallen Mini'spiri'vali Alteration": {
+        "Name": "Mini'spiri'vali",
+        "Creator": "Hiyu / PhoenixFallen",
+        "Introducer": "PhoenixFallen",
+        "Hash": [
+          "1672888727v2",
+          "767177192v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 3.81
+      },
+      "Spiri'vali Taur": {
+        "Name": "Spiri'vali Taur",
+        "Creator": "Hiyu / Woffle Nibbler",
+        "Introducer": "Woffle Nibbler",
+        "Hash": [
+          "-1994826213v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 2.7
+      },
+      "Spiri'vern": {
+        "Name": "Spiri'vern",
+        "Creator": "Hiyu / InvertedCrink",
+        "Introducer": "InvertedCrink",
+        "Hash": [
+          "-1215055026v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 9
+      }
+    },
+    "Little Blackbird": {
+      "Original": {
+        "Name": "Little Blackbird",
+        "Creator": "hiddencateyes",
+        "Introducer": "PhoenixFallen",
+        "Hash": [
+          "443427488v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 5.6
+      }
+    },
+    "Avali Spirit": {
+      "Original": {
+        "Name": "Avali Spirit",
+        "Creator": "DarkSpirit019",
+        "Introducer": "DarkSpirit019",
+        "Hash": [
+          "-1601342637v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 9.19
+      }
+    },
+    "Ori'Vali": {
+      "Original": {
+        "Name": "Ori'Vali",
+        "Creator": "Mike Da Bird",
+        "Introducer": "Polaris°",
+        "Hash": [
+          "-163082989v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 1.34
+      }
+    },
+    "KAvali": {
+      "Original": {
+        "Name": "KAvali",
+        "Creator": "Questing Crusader",
+        "Introducer": "dasnull",
+        "Hash": [
+          "266521799v2",
+          "927855988v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 4.75
+      }
+    },
+    "AS.4VA-L1": {
+      "Original": {
+        "Name": "AS.4VA-L1",
+        "Creator": "Aeyon Systems",
+        "Introducer": "Polaris°",
+        "Hash": [
+          "-521218447v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 3.5
+      }
+    },
+    "Pteryxis": {
+      "Original": {
+        "Name": "Pteryxis",
+        "Creator": "rocrocot",
+        "Introducer": "Glowva",
+        "Hash": [
+          "-868816976v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 1.82
+      }
+    },
+    "Purpzbee": {
+      "Original": {
+        "Name": "Purpzbee",
+        "Creator": "Tokyozilla / Purpzie",
+        "Introducer": "Purpzie",
+        "Hash": [
+          "-657967206v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 10.5
+      }
+    },
+    "Mantled Vern": {
+      "Original": {
+        "Name": "Mantled Vern",
+        "Creator": "Nicoreda / InvertedCrink",
+        "Introducer": "InvertedCrink",
+        "Hash": [
+          "-1808718474v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 6.731415
+      }
+    },
+    "Av-Eli": {
+      "Original": {
+        "Name": "Av-Eli",
+        "Creator": "IshgardWinter",
+        "Introducer": "~Angiethekirin~",
+        "Hash": [
+          "-903359428v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 3.1
+      }
+    },
+    "SAM (Sap Avali Model)": {
+      "Original": {
+        "Name": "SAM (Sap Avali Model)",
+        "Creator": "Sap",
+        "Introducer": "Luna Neszy",
+        "Hash": [
+          "415114641v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 7
+      }
+    },
+    "Uncia Gryphonet": {
+      "Original": {
+        "Name": "Uncia Gryphonet",
+        "Creator": "バウワウナード",
+        "Introducer": "Luna Neszy",
+        "Hash": [
+          "-53031928v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 3.61
+      }
+    },
+    "Durgarra": {
+      "Original": {
+        "Name": "Durgarra",
+        "Creator": "Kyderra",
+        "Introducer": "DarkSpirit019",
+        "Hash": [
+          "-812968432v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 0.91
+      }
+    },
+    "Wyvernarra": {
+      "Original": {
+        "Name": "Wyvernarra",
+        "Creator": "Kyderra",
+        "Introducer": "DarkSpirit019",
+        "Hash": [
+          "634475338v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 1.7
+      }
+    },
+    "Litria": {
+      "Original": {
+        "Name": "Litria",
+        "Creator": "Koubato",
+        "Introducer": "Reazy Fluff",
+        "Hash": [
+          "-2068937614v2",
+          "1613858679v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 5.1
+      }
+    },
+    "Batty Bat": {
+      "Original": {
+        "Name": "Batty Bat",
+        "Creator": "Vulthra",
+        "Introducer": "Reazy Fluff",
+        "Hash": [
+          "311024634v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 6
+      }
+    },
+    "Dromeowyrm": {
+      "Original": {
+        "Name": "Dromeowyrm v2",
+        "Creator": "corvidcurse",
+        "Introducer": "Reazy Fluff",
+        "Hash": [
+          "-1284394475v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 1.25
+      }
+    },
+    "Welpling": {
+      "Original": {
+        "Name": "Welpling",
+        "Creator": "Tokyozilla",
+        "Introducer": "Tokyozilla",
+        "Hash": [
+          "887302968v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 7.57
+      }
+    },
+    "CORVID'S CORVID": {
+      "Original": {
+        "Name": "CORVID'S CORVID",
+        "Creator": "Crowned Corvid",
+        "Introducer": "SandFoxed",
+        "Hash": [
+          "-877596706v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 4
+      },
+      "Drekslaw Edit": {
+        "Name": "Corvid's Corvid (edit)",
+        "Creator": "Crowned Corvid / a distraction",
+        "Introducer": "a distraction",
+        "Hash": [
+          "-224687394v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 4
+      }
+    },
+    "Stellaura": {
+      "Original": {
+        "Name": "Stellaura",
+        "Creator": "BurnsToShine",
+        "Introducer": "BurnsToShine",
+        "Hash": [
+          "400544487v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 6
+      }
+    },
+    "パーレ": {
+      "Original": {
+        "Name": "パーレ",
+        "Creator": "ForestWind (Gennyuudousi)",
+        "Introducer": "Lane_the_Rex",
+        "Hash": [
+          "244340153v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 1.4
+      }
+    },
+    "リトゥーニャ": {
+      "Original": {
+        "Name": "リトゥーニャ",
+        "Creator": "udon-cat-works",
+        "Introducer": "ＶｉｘｅｎＤａｖａｌｉ",
+        "Hash": [
+          "1787947624v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 3.25
+      }
+    },
+    "つくね": {
+      "Original": {
+        "Name": "Tsukune",
+        "Creator": "udon-cat-works",
+        "Introducer": "hantnor",
+        "Hash": [
+          "2083855801v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 1.9
+      }
+    },
+    "Haggitavali": {
+      "Original": {
+        "Name": "Haggitavali",
+        "Creator": "Haggets",
+        "Introducer": "Apache Longbow",
+        "Hash": [
+          "712425889v2",
+          "-450373520v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 4.44
+      }
+    },
+    "Owl": {
+      "Original": {
+        "Name": "Snow Owl",
+        "Creator": "Ordinary_night / Raubana / FoxSerito / もふもふ屋 / aokuro",
+        "Introducer": "Ordinary_night",
+        "Hash": [
+          "-982984078v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 7.97
+      }
+    },
+    "Derp Butt Birb": {
+      "SL Port": {
+        "Name": "Derp Butt Birb",
+        "Creator": "Derp Butt / Mieze",
+        "Introducer": "Mieze",
+        "Hash": [
+          "946277706v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 2.1
+      }
+    },
+    "RooTooHoo": {
+      "RooTooHoo Wings Edit": {
+        "Name": "Tru Snowy RooTooHoo (4.0)",
+        "Creator": "zombies-in-soup / TrueHiddenS",
+        "Introducer": "TrueHiddenS",
+        "Hash": [
+          "-2053657869v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 1.5
+      }
+    },
+    "Revali": {
+      "Original": {
+        "Name": "Revali",
+        "Creator": "S e n t i n e l",
+        "Introducer": "S e n t i n e l",
+        "Hash": [
+          "823513786v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 4.43
+      }
+    },
+    "Chirrup": {
+      "Original": {
+        "Name": "Chirrup",
+        "Creator": "thingy",
+        "Introducer": "Iced_lem0n",
+        "Hash": [
+          "1677500335v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 1.35
+      }
+    },
+    "Licresia": {
+      "Original": {
+        "Name": "Licresia",
+        "Creator": "ForestWind (Gennyuudousi)",
+        "Introducer": "Jafira-Dragon",
+        "Hash": [
+          "-311718055v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 0
+      }
+    },
+    "Li'vali": {
+      "Original": {
+        "Name": "Li'vali",
+        "Creator": "Livdays",
+        "Introducer": "NoodleTheAvali",
+        "Hash": [
+          "116905929v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 2.7
+      }
+    },
+    "Apheli'vali": {
+      "Original": {
+        "Name": "Apheli'vali",
+        "Creator": "AComfyPillow",
+        "Introducer": "Dream_LP",
+        "Hash": [
+          "1329801700v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 4.45
+      }
+    },
+    "Muspo": {
+      "Original": {
+        "Name": "Muspo",
+        "Creator": "Rezillo Ryker",
+        "Introducer": "AeolusDraco",
+        "Hash": [
+          "1308003838v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 13.01
+      }
+    },
+    "Ele'vali": {
+      "Original": {
+        "Name": "Ele'vali",
+        "Creator": "WingHugs",
+        "Introducer": "WingHugs",
+        "Hash": [
+          "417425018v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 3.9
+      }
+    },
+    "YAAvali": {
+      "Original": {
+        "Name": "YAAvali",
+        "Creator": "DragonSkyRunner",
+        "Introducer": "Zero_assasin",
+        "Hash": [
+          "-242305141v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 6.4
+      }
+    },
+    "TaliVali": {
+      "Original": {
+        "Name": "TaliVali",
+        "Creator": "Mero",
+        "Introducer": "Talii",
+        "Hash": [
+          "-2091615873v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 4
+      }
+    },
+    "Avali Pooltoy": {
+      "Original": {
+        "Name": "Avali Pooltoy",
+        "Creator": "Maitake Shiba",
+        "Introducer": "Reazy Fluff",
+        "Hash": [
+          "1797114105v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 2.8
+      }
+    },
+    "Phovali ": {
+      "Original": {
+        "Name": "Phovali ",
+        "Creator": "Alkaline",
+        "Introducer": "Zero_assasin",
+        "Hash": [
+          "523384234v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 1.4
+      }
+    },
+    "Javali Redux": {
+      "Original 1": {
+        "Name": "Javali Redux",
+        "Creator": "Javenchi",
+        "Introducer": "FlorianGrille",
+        "Hash": [
+          "-323300775v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 5.28
+      },
+      "Original 2": {
+        "Name": "Javali Redux",
+        "Creator": "Javenchi",
+        "Introducer": "LunaFree",
+        "Hash": [
+          "1317662263v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 5
+      }
+    },
+    "Fluffy Gryphon": {
+      "Original": {
+        "Name": "Fluffy Gryphon",
+        "Creator": "manyblinkinglights",
+        "Introducer": "Purpzie",
+        "Hash": [
+          "-2057119616v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 10
+      },
+      "Final IK Edit": {
+        "Name": "Fluffy Gryphon (FIK)",
+        "Creator": "manyblinkinglights / Purpzie",
+        "Introducer": "Purpzie",
+        "Hash": [
+          "808251203v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 10
+      }
+    },
+    "Dovabrodian": {
+      "Original": {
+        "Name": "Dovabrodian",
+        "Creator": "Neffertity",
+        "Introducer": "Darkrei9n",
+        "Hash": [
+          "151408313v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 8.3
+      }
+    },
+    "Remastered Reverse Avali": {
+      "Original": {
+        "Name": "Remastered Reverse Avali",
+        "Creator": "VictonRoy / WebserferOwO",
+        "Introducer": "WebserferOwO",
+        "Hash": [
+          "-1903530016v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 7.5
+      }
+    },
+    "Vi'Vali": {
+      "Original": {
+        "Name": "Vi'Vali",
+        "Creator": "ChimeraHollow",
+        "Introducer": "Zero_assasin",
+        "Hash": [
+          "464189971v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 7.99
+      }
+    },
+    "Moondle": {
+      "Original": {
+        "Name": "Moondle",
+        "Creator": "Meelo / Laser Raptor",
+        "Introducer": "Zeimyth",
+        "Hash": [
+          "1602782311v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 11.73
+      }
+    },
+    "Anra": {
+      "Original": {
+        "Name": "Anra",
+        "Creator": "aokuro",
+        "Introducer": "Fluxsynth",
+        "Hash": [
+          "1914552374v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 6.44
+      }
+    },
+    "Cync'vali": {
+      "Original": {
+        "Name": "Cync'vali",
+        "Creator": "Cynic",
+        "Introducer": "Xavarius",
+        "Hash": [
+          "673820797v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 2.14
+      }
+    },
+    "Sweater Bird": {
+      "Original": {
+        "Name": "Sweater Bird",
+        "Creator": "Crazium",
+        "Introducer": "KUROPPER",
+        "Hash": [
+          "-489037540v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 0
+      }
+    },
+    "Feathered Raptor": {
+      "Original": {
+        "Name": "Feathered Raptor",
+        "Creator": "CreatureTime",
+        "Introducer": "Xavarius",
+        "Hash": [
+          "-713910226v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 1.14
+      }
+    },
+    "SnerVali": {
+      "Original": {
+        "Name": "SnerVali",
+        "Creator": "Snerfoil",
+        "Introducer": "Katislove",
+        "Hash": [
+          "280791866v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 5.55
+      }
+    },
+    "Tehvali": {
+      "Original Digi": {
+        "Name": "Tehvali",
+        "Creator": "Octo_Hedgie / Ximmer_VR",
+        "Introducer": "PhoenixFallen",
+        "Hash": [
+          "1572237321v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 2.5
+      }
+    },
+    "Mobu": {
+      "Original": {
+        "Name": "Mobu",
+        "Creator": "Beanthing",
+        "Introducer": "Beanthing",
+        "Hash": [
+          "-841588647v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 3.5
+      }
+    },
+    "Moonvern": {
+      "Original": {
+        "Name": "Moonvern",
+        "Creator": "Stripe / Morghus",
+        "Introducer": "AeolusDraco",
+        "Hash": [
+          "1814085582v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 10.88
+      },
+      "Royalty FT": {
+        "Name": "Moonvern - Royalty FT",
+        "Creator": "Stripe / Royalty / Morghus",
+        "Introducer": "AeolusDraco",
+        "Hash": [
+          "357482212v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 10.88
+      }
+    },
+    "Murci Bat": {
+      "Original": {
+        "Name": "Murci Bat",
+        "Creator": "Estefanoida",
+        "Introducer": "Reazy Fluff",
+        "Hash": [
+          "-158564000v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 2.1
+      }
+    },
+    "Taube - Bird": {
+      "Original": {
+        "Name": "Taube - Bird",
+        "Creator": "KufiBean",
+        "Introducer": "Mors Phantasma",
+        "Hash": [
+          "-1916865839v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 6.6
+      }
+    },
+    "Griffly": {
+      "Original": {
+        "Name": "Griffly",
+        "Creator": "Burrely",
+        "Introducer": "mackandelius",
+        "Hash": [
+          "-1584282627v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 2.05
+      }
+    },
+    "Sulka": {
+      "Original": {
+        "Name": "Sulka",
+        "Creator": "Sohvi",
+        "Introducer": "mackandelius",
+        "Hash": [
+          "1615644268v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 3.83
+      }
+    },
+    "Fluff Avali": {
+      "Original": {
+        "Name": "Fluff Avali",
+        "Creator": "Melacar",
+        "Introducer": "mackandelius",
+        "Hash": [
+          "580028676v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 7.2
+      }
+    },
+    "Tri'Vali": {
+      "Original": {
+        "Name": "Tri'Vali",
+        "Creator": "fungusfactory",
+        "Introducer": "mackandelius",
+        "Hash": [
+          "1139235167v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 3.8
+      }
+    },
+    "Flit Adventurer of the night": {
+      "Original": {
+        "Name": "Flit Adventurer of the night",
+        "Creator": "BlueGua",
+        "Introducer": "KuroFoxYokai",
+        "Hash": [
+          "-1223323622v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 1.75
+      }
+    },
+    "Protodal": {
+      "Batterwelon Mod": {
+        "Name": "Batterwelon",
+        "Creator": "Nicoreda / Mawterwelon",
+        "Introducer": "Mawterwelon",
+        "Hash": [
+          "607834026v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 10
+      }
+    },
+    "Nico'Vali": {
+      "Original": {
+        "Name": "Nico'Vali",
+        "Creator": "Nicoreda",
+        "Introducer": "Zero_assasin",
+        "Hash": [
+          "2147274421v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 2.23
+      }
+    }
+  }
+}
